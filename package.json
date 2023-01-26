@@ -15,7 +15,7 @@
     "chart.js": "^2.9.4",
     "chartkick": "^3.2.0",
     "core-js": "^3.6.4",
-    "tailwindcss": "^1.1.2",
+    "tailwindcss": "^1.9.6",
     "vue": "^2.6.11",
     "vue-chartkick": "^0.6.0",
     "vue-router": "^3.3.2"
